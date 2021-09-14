@@ -2,9 +2,7 @@ Findora Loot 合约模版工程
 
 #### 前置条件：
 
-```
 复制 项目工程根目录中的 **.env.example** -> **.env**, 修改 **REACT_APP_PRIVATE_KEY** 环境变量。
-```
 
 #### 编译合约：
 
